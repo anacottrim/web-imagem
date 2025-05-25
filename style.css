@@ -30,3 +30,12 @@ footer{
    width: 100%;
    bottom: 0;
 }
+ul {
+   text-align: left;
+   max-width:400px;
+   margin: 10px auto 0 auto;
+   padding-left: 20px;
+   color: #555;
+   font-size: 1rem;
+   line-height:1.5;
+}
