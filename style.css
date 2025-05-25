@@ -1,0 +1,32 @@
+body {
+   margin:0;
+   padding:0;
+   background-color: #f0f8ff;
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Gevena, Verdana, sans-serif;
+}
+header {
+   color: white;
+   background-color: #4caf50;
+   padding: 30px 0;
+   box-shadow:0px 2px 4px rgba(0,0,0,0.1);
+}
+main{
+   padding:40px 20px;
+}
+.card{
+   background-color: white;
+   margin: 20px auto;
+   padding: 20px;
+   border-radius: 12px;
+   max-whidth:600px;
+   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+footer{
+   background-color:#333;
+   color:#fff;
+   padding:15px;
+   position: fixid;
+   width: 100%;
+   bottom: 0;
+}
